@@ -22,6 +22,7 @@ a:link{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin:20px;
 }
 .grid img{
     border: 2px solid #000000;
@@ -32,6 +33,10 @@ a:link{
     background-color: #ffffff;
     width: 310px;
     margin: 25px;
+    padding:10px;
+    border: #000000;
+    font-family: cursive;
+    font: small;
 }
 
 .x{
